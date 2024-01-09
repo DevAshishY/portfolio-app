@@ -13,42 +13,42 @@ id : 1,
 image: IMG1,
 title : 'Crypto Currency Dashboard & financial visualation',
 github: 'https://github.com',
-demo: 'https://dribbble.com/shots/16673715-Crypto-currency-dashboard-and-financial-data-visualation'
+demo: ''
 },
 {
 id : 1,
 image: IMG2,
 title : 'Crypto Currency Dashboard & financial visualation',
 github: 'https://github.com',
-demo: 'https://dribbble.com/shots/16673715-Crypto-currency-dashboard-and-financial-data-visualation'
+demo: ''
 },
 {
 id : 1,
 image: IMG3,
 title : 'Crypto Currency Dashboard & financial visualation',
 github: 'https://github.com',
-demo: 'https://dribbble.com/shots/16673715-Crypto-currency-dashboard-and-financial-data-visualation'
+demo: ''
 },
 {
 id : 1,
 image: IMG4,
 title : 'Crypto Currency Dashboard & financial visualation',
 github: 'https://github.com',
-demo: 'https://dribbble.com/shots/16673715-Crypto-currency-dashboard-and-financial-data-visualation'
+demo: ''
 },
 {
 id : 1,
 image: IMG5,
 title : 'Crypto Currency Dashboard & financial visualation',
 github: 'https://github.com',
-demo: 'https://dribbble.com/shots/16673715-Crypto-currency-dashboard-and-financial-data-visualation'
+demo: ''
 },
 {
 id : 1,
 image: IMG6,
 title : 'Crypto Currency Dashboard & financial visualation',
 github: 'https://github.com',
-demo: 'https://dribbble.com/shots/16673715-Crypto-currency-dashboard-and-financial-data-visualation'
+demo: ''
 },
 ]
 
