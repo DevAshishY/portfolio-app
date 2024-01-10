@@ -1,7 +1,5 @@
 .experience_container{
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    gap: 2rem;
+   
     }
     .experience_container > div{
         background: var(--color-bg-variant );
@@ -22,7 +20,7 @@
     }
     .experience_content{
         display: grid;
-        grid-template-columns: 1fr 1fr;
+        grid-template-columns: 1fr 1fr 1fr;
         row-gap: 2rem;
     }
     .experience_details{

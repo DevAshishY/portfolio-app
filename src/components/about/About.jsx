@@ -12,33 +12,23 @@ const About = () => {
 <h5>Get To Know</h5>
 <h2>About Me</h2>
 <div className='container about_container'>
-<div className='about_me'>
-  <div className='about_me-image'>
-<img src={ME} alt="About Image">
-</img>
-  </div>
-  </div>
+
   <div className='about_content'>
     <div className='about_cards'>
       <article className='about_card'>
 <FiAward className='about_icon'/>      
         <h5>Experiences</h5>
-<small>5+ years Working</small>  
+<small>8+ years Working</small>  
       </article>
-      <article className='about_card'>
-           <FiUsers className='about_icon'/>
-        <h5>Clients</h5>
-<small>300+ Worldwide</small>  
-      </article>
+
       <article className='about_card'>
 <AiFillFolderOpen className='about_icon'/>      
         <h5>Projects</h5>
-<small>80+  projects</small>  
+<small>100+  projects</small>  
       </article>
     </div>
     <p>
-In publishing and graphic design, Lorem ipsum is a placeholder text commonly used to demonstrate the visual form of a document or a typeface without relying on meaningful content. Lorem ipsum may be used as a placeholder before final copy is available.
-</p>
+    Solution-driven Fronted Developer adept at contributing to highly collaborative work environment, finding solutions and determining customer satisfaction. Proven experience developing consumer-focused websites using HTML, CSS, React and JavaScript. Built products for desktop and mobile app users over 10 years with 8 years relevant, meeting highest standards for web design, user experience, best practices and speed. Designed and developed web applications across multiple APIs, third-party integrations .</p>
 <a href='#contact' className='btn btn-primary'>Let's Talk</a>
 
   </div>

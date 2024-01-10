@@ -11,45 +11,39 @@ const data =[
 {
 id : 1,
 image: IMG1,
-title : 'Crypto Currency Dashboard & financial visualation',
-github: 'https://github.com',
-demo: ''
+title : 'mi-store-clone-react',
+github: 'https://github.com/DevAshishY/mi-store-clone-react',
+demo: 'https://devashishy.github.io/mi-store-clone-react/'
 },
 {
 id : 1,
 image: IMG2,
-title : 'Crypto Currency Dashboard & financial visualation',
-github: 'https://github.com',
-demo: ''
+title : 'myntra-clone',
+github: 'https://github.com/DevAshishY/myntra-clone',
+demo: 'https://devashishy.github.io/myntra-clone/'
 },
 {
 id : 1,
 image: IMG3,
-title : 'Crypto Currency Dashboard & financial visualation',
-github: 'https://github.com',
-demo: ''
+title : 'react-calculator',
+github: 'https://github.com/DevAshishY/react-calculator',
+demo: 'https://devashishy.github.io/react-calculator/'
 },
 {
 id : 1,
 image: IMG4,
-title : 'Crypto Currency Dashboard & financial visualation',
-github: 'https://github.com',
-demo: ''
+title : 'social-media-clone',
+github: 'https://github.com/DevAshishY/social-media-clone',
+demo: 'https://devashishy.github.io/social-media-clone/'
 },
 {
 id : 1,
 image: IMG5,
-title : 'Crypto Currency Dashboard & financial visualation',
-github: 'https://github.com',
-demo: ''
+title : 'todo-with-context-reducer',
+github: 'https://github.com/DevAshishY/todo-with-context-reducer',
+demo: 'https://devashishy.github.io/todo-with-context-reducer/'
 },
-{
-id : 1,
-image: IMG6,
-title : 'Crypto Currency Dashboard & financial visualation',
-github: 'https://github.com',
-demo: ''
-},
+
 ]
 
 

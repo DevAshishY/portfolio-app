@@ -3,7 +3,6 @@ import Header from './components/global/header/Header';
 import Nav from './components/global/nav/Nav';
 import About from './components/about/About';
 import Experience from './components/experience/Experience';
-import Services from './components/services/Services';
 import Portfolio from './components/portfolio/Portfolio';
 import Testimonials from './components/testimonials/Testimonials';
 import Contact from './components/contact/Contact';
@@ -16,9 +15,8 @@ function App() {
    <Nav/>
    <About/>
    <Experience/>
-   <Services/>
    <Portfolio/>
-   <Testimonials/>
+   {/* <Testimonials/> */}
    <Contact/>
    <Footer/>
    </>
